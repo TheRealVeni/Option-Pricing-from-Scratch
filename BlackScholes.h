@@ -1,6 +1,7 @@
 #ifndef BLACKSCHOLES_H
 #define BLACKSCHOLES_H
 
+//predefined characteristics which we will use in BlackScholes.cpp
 class BlackScholes
 {
 public:
