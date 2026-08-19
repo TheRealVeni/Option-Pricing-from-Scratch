@@ -3,6 +3,7 @@
 #include <algorithm>
 #include "BinomialTree.h"
 
+
 double BinomialTree::Call(
     double S,
     double K,
